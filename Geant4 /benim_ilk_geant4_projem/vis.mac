@@ -1,0 +1,9 @@
+/run/initialize
+/vis/open OGL
+/vis/drawVolume
+/vis/viewer/set/viewpointThetaPhi 90. 180.
+/vis/scene/add/trajectories smooth
+/vis/viewer/set/style surface
+/vis/geometry/set/colour World 0 0 0 1 0.3
+/vis/scene/add/axes 0 0 0 20 cm
+/vis/scene/endOfEventAction accumulate

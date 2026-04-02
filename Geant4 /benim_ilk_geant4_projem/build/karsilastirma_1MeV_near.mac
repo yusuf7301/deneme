@@ -1,0 +1,66 @@
+# ==============================
+# 1) GAMMA - 1 MeV
+# ==============================
+
+# Run başlangıç ayarı
+/run/initialize
+
+# Parçacık türü
+/gun/particle gamma
+
+# Parçacık enerjisi
+/gun/energy 1 MeV
+
+# Başlangıç konumu
+/gun/position 0 0 -6 cm
+
+# Hareket yönü
+/gun/direction 0 0 1
+
+# Çıktı seviyeleri
+/run/verbose 1
+/event/verbose 0
+/tracking/verbose 0
+
+# 100 event çalıştırır
+/run/beamOn 100
+
+
+# ==============================
+# 2) ELEKTRON - 1 MeV
+# ==============================
+
+# Parçacık türü
+/gun/particle e-
+
+# Parçacık enerjisi
+/gun/energy 1 MeV
+
+# Başlangıç konumu
+/gun/position 0 0 -6 cm
+
+# Hareket yönü
+/gun/direction 0 0 1
+
+# 100 event çalıştırır
+/run/beamOn 100
+
+
+# ==============================
+# 3) PROTON - 1 MeV
+# ==============================
+
+# Parçacık türü
+/gun/particle proton
+
+# Parçacık enerjisi
+/gun/energy 1 MeV
+
+# Başlangıç konumu
+/gun/position 0 0 -6 cm
+
+# Hareket yönü
+/gun/direction 0 0 1
+
+# 100 event çalıştırır
+/run/beamOn 100

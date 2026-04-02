@@ -1,0 +1,7 @@
+/home/yusuf/Desktop/Geant4 /benim_ilk_geant4_projem/build/CMakeFiles/benim_ilk_geant4.dir
+/home/yusuf/Desktop/Geant4 /benim_ilk_geant4_projem/build/CMakeFiles/edit_cache.dir
+/home/yusuf/Desktop/Geant4 /benim_ilk_geant4_projem/build/CMakeFiles/rebuild_cache.dir
+/home/yusuf/Desktop/Geant4 /benim_ilk_geant4_projem/build/CMakeFiles/list_install_components.dir
+/home/yusuf/Desktop/Geant4 /benim_ilk_geant4_projem/build/CMakeFiles/install.dir
+/home/yusuf/Desktop/Geant4 /benim_ilk_geant4_projem/build/CMakeFiles/install/local.dir
+/home/yusuf/Desktop/Geant4 /benim_ilk_geant4_projem/build/CMakeFiles/install/strip.dir
