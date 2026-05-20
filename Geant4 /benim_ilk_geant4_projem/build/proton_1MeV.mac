@@ -1,9 +1,0 @@
-/run/initialize
-/gun/particle proton
-/gun/energy 1 MeV
-/gun/position 0 0 -6 cm
-/gun/direction 0 0 1
-/run/verbose 1
-/event/verbose 0
-/tracking/verbose 0
-/run/beamOn 100
